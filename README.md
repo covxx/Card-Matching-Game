@@ -1,4 +1,4 @@
 Card-Matching-Game
 ==================
 
-Simple python card matching game with pygame
+Simple python card matching game with tkinter
